@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "流声",
+  "base_artist": "めいちゃん",
+  "createdAt": "2026-02-07T22:35:00.050983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流声",
+      "artist": "Meychan",
+      "has_synced": true,
+      "path": "select/01_流声_Meychan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流声",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_流声_めいちゃん.txt"
+    }
+  ]
+}
